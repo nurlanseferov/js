@@ -1,0 +1,39 @@
+.js{ text-align: center;
+    border: 3px solid yellow;
+    background-color: rgb(53, 15, 15);
+    height: 20rem;
+    width: 20rem;
+    h1{
+        padding: 20px 100px;
+        color: cornsilk;
+        font-size: 15px;
+    }
+    input{
+        margin-top: 100px;
+        height: 40px;
+        width: 70%;
+        background-color: rgb(139, 139, 177);
+        border: none;
+        border-radius: 10px;
+        text-decoration: none;
+        &:focus{
+            outline: none;
+        }
+
+    }
+    button{
+        background-color: rgb(161, 157, 92);
+        padding: 10px 70px;
+        border: none;
+        border-radius: 100px;
+        &:focus{
+            outline: none;
+        }
+    }
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}

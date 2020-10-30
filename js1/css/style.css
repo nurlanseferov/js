@@ -1,0 +1,46 @@
+.js {
+  text-align: center;
+  border: 3px solid yellow;
+  background-color: #350f0f;
+  height: 20rem;
+  width: 20rem;
+}
+
+.js h1 {
+  padding: 20px 100px;
+  color: cornsilk;
+  font-size: 15px;
+}
+
+.js input {
+  margin-top: 100px;
+  height: 40px;
+  width: 70%;
+  background-color: #8b8bb1;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.js input:focus {
+  outline: none;
+}
+
+.js button {
+  background-color: #a19d5c;
+  padding: 10px 70px;
+  border: none;
+  border-radius: 100px;
+}
+
+.js button:focus {
+  outline: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=style.css.map */
